@@ -53,6 +53,6 @@ Global Superstore Dataset (Kaggle) — multi-market retail transactions spanning
 
 ## Author
 
-[Your Name] — AnalystLab Africa Data Analytics Internship, Week 2
+Cecilia Kidiga — AnalystLab Africa Data Analytics Internship, Week 2
 
 #AnalystLabAfrica
